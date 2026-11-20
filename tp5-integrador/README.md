@@ -6,8 +6,8 @@
 
 ## Integrantes
 - Gaona, Axel — AxelGaona1453
-- Apellido, Nombre — usuario de GitHub
-- Apellido, Nombre — usuario de GitHub
+
+Trabajo realizado de forma individual.
 
 ## Descripción
 Aplicación web full stack para gestionar tickets de soporte. Los usuarios pueden ver tickets y suscribirse a ellos;
